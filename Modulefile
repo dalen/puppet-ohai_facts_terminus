@@ -1,0 +1,7 @@
+name    'dalen-ohai_facts_terminus'
+version '0.0.1'
+author 'Erik Dalén <erik.gustav.dalen@gmail.com>'
+license 'ISC License'
+summary 'A Ohai facts terminus for Puppet'
+description 'Get facts from Ohai in Puppet'
+project_page 'https://github.com/dalen/puppet-ohai_facts_terminus'
